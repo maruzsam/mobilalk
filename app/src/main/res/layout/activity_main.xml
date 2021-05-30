@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/listDeviceRequests"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="listDeviceRequests"
+        android:text="@string/listDeviceRequests"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.188"
+        android:layout_marginTop="25dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/addDeviceRequests"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="addDeviceRequests"
+        android:text="@string/addDeviceRequests"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.314"
+        android:layout_marginTop="25dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+
+        <!--
+    <Button
+        android:id="@+id/deviceRequestsUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="updateDeviceRequests"
+        android:text="@string/updateDeviceRequests"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.442"
+        android:layout_marginTop="25dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/deleteDeviceRequests"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="deleteDeviceRequests"
+        android:text="@string/deleteDeviceRequests"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.566"
+        android:layout_marginTop="25dp"
+        tools:layout_editor_absoluteX="0dp" />
+        -->
+
+</LinearLayout>

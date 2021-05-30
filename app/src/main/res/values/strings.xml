@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">DeviceRequest</string>
+    <string name="deviceRequestsList">deviceRequestsList</string>
+    <string name="deviceRequestsAdd">deviceRequestsAdd</string>
+    <string name="deviceRequestsDelete">deviceRequestsDelete</string>
+    <string name="deviceRequestsUpdate">deviceRequestsUpdate</string>
+    <string name="deleteDeviceRequests">deleteDeviceRequests</string>
+    <string name="updateDeviceRequests">updateDeviceRequests</string>
+    <string name="addDeviceRequests">addDeviceRequests</string>
+    <string name="listDeviceRequests">listDeviceRequests</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">asd</string>
+    <string name="save_device_request">save_device_request</string>
+    <string name="intent">intent</string>
+    <string name="subject">subject</string>
+    <string name="code">code</string>
+    <string name="delete_device_request">delete_device_request</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="list">List</string>
+    <string name="name" />
+
+    <string-array name="device_item_names">
+        <item>Név 1</item>
+        <item>Név 2</item>
+        <item>Név 3</item>
+        <item>Név 4</item>
+
+    </string-array>
+
+    <string-array name="device_item_intents">
+        <item>intent 1</item>
+        <item>intent 2</item>
+        <item>intent 3</item>
+        <item>intent 4</item>
+
+    </string-array>
+
+    <string-array name="device_item_codes">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+
+    <string-array name="device_item_subjects">
+        <item>subject1</item>
+        <item>subject2</item>
+        <item>subject3</item>
+        <item>subject4</item>
+
+    </string-array>
+
+
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927268930812",
+    "project_id": "devicerequest-e2c1e",
+    "storage_bucket": "devicerequest-e2c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927268930812:android:25f733e60402a3fd674379",
+        "android_client_info": {
+          "package_name": "com.example.devicerequest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927268930812-fb0jh69lbs2bf983pkdm00r78u7b08gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devicerequest",
+            "certificate_hash": "1cf1bb2e3f24a6e3c6fcbecc14e9193760388ce3"
+          }
+        },
+        {
+          "client_id": "927268930812-43abp2jjel99gtt2j8phabiq5v6bk9p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHIzzlbEai69Clcn8CYBSL0rYeSgVoDXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927268930812-43abp2jjel99gtt2j8phabiq5v6bk9p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
